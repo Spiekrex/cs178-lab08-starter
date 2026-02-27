@@ -1,7 +1,6 @@
-# CS178 - Rex Spieker
-# CS178 - Lab 8 Starter
 # Lab 8A - Rex Spieker
 # Version 2
+# This is my third line blehh
  
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
